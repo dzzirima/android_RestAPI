@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FansetTechinician</string>
+    <string name="name_of_tech">Name</string>
+    <string name="type_of_Installation">Installation Type</string>
+    <string name="partner">Installation Partner</string>
+    <string name="job_description">Job Description</string>
+    <string name="number_of_tank">Number of Tanks</string>
+    <string name="basic">Basic</string>
+    <string name="fuel">Fuel</string>
+    <string name="rework">Rework</string>
+    <string name="submit_job">Submit Job !!</string>
+
+</resources>
